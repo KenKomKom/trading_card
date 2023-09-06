@@ -2,24 +2,38 @@
 <html>
     {% load static %}
     <head>
-        <title>Card Inventory</title>
+        <title>We Want Decor</title>
         <link rel="stylesheet" href="{% static 'show_card.css' %}">
+        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     </head>
     <body>
         <header>
-            <h1>Welcome To Da Shop!</h1>
-        </header>
-        <div class = "cards">
-            {% for card in cards %}
-            <div class="card">
-                <p>{{card.name}}</p>
-                <img src={{card.image_link}} alt="{{card.name}}">
-                <p>{{card.amount}}</p>
-                <p>{{card.desc}}</p>
-                <br/>
+            <div class="home">
+                <h1>We Want<br/><span class="red">Decorsss</span></h1>
+                <p>numero uno<br/>room estatic database</p>
             </div>
-            {% endfor %}
+        </header>
+        <div class="navbar">
+            <a href = "" id="navbarTitle">We Want <span class="red">Decorsss</span></a>
+            <p id="navbarAbout">About Us</p>
+        </div>
+        <div class = "cards">
+            <div class = "container">
+                {% for card in cards %}
+                <div class="card">
+                    <p>{{card.name}}</p>
+                    <img src={{card.image_link}} alt="{{card.name}}">
+                    <p>{{card.amount}}</p>
+                    <p>{{card.desc}}</p>
+                    <br/>
+                </div>
+                {% endfor %}
+            </div>
         </div>
 
     </body>
+    <footer>
+        <h1>We Want<br/><span class="red">Decorsss</span></h1>
+        <p>Don't Contact Us</p>
+    </footer>
 </html>
