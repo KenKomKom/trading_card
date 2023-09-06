@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    {% load static %}
+    <head>
+        <title>Card Inventory</title>
+        <link rel="stylesheet" href="{% static 'show_card.css' %}">
+    </head>
+    <body>
+        <header>
+            <h1>Welcome To Da Shop!</h1>
+        </header>
+        <div class = "cards">
+            {% for card in cards %}
+            <div class="card">
+                <p>{{card.name}}</p>
+                <img src={{card.image_link}} alt="{{card.name}}">
+                <p>{{card.amount}}</p>
+                <p>{{card.desc}}</p>
+                <br/>
+            </div>
+            {% endfor %}
+        </div>
+
+    </body>
+</html>

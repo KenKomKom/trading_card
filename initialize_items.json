@@ -1,0 +1,30 @@
+[
+    {
+        "model":"collection.items",
+        "fields":{
+            "name" : "a",
+            "amount":"1",
+            "description":"desc",
+            "image_link":"https://drive.google.com/uc?export=view&id=1OEheU8t1VbDwpTt7r7NxsiLIYIhJnYAS"
+        }
+        
+    },
+    {
+        "model":"collection.items",
+        "fields":{
+            "name" : "b",
+            "amount":"2",
+            "description":"desc2",
+            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+        }
+    },
+    {
+        "model":"collection.items",
+        "fields":{
+            "name" : "c",
+            "amount":"3",
+            "description":"desc3",
+            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+        }
+    }
+]
