@@ -4,5 +4,5 @@
    Saya pun menambahkan file json untuk membuat item-item untuk di-list dan menggunakan django-admin loaddata sehingga objek dari models terbentuk. Setelah itu saya bermain dengan html dan css untuk waktu
    yang terlalu lama.
 2. a
-3. ![alt text](BaganTugas2.png)
+3. ![alt text](BaganTugas2.PNG)
    
