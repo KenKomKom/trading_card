@@ -1,6 +1,6 @@
 [
     {
-        "model":"collection.items",
+        "model":"main.items",
         "fields":{
             "name" : "a",
             "amount":"1",
@@ -10,7 +10,7 @@
         
     },
     {
-        "model":"collection.items",
+        "model":"main.items",
         "fields":{
             "name" : "b",
             "amount":"2",
@@ -19,7 +19,7 @@
         }
     },
     {
-        "model":"collection.items",
+        "model":"main.items",
         "fields":{
             "name" : "c",
             "amount":"3",

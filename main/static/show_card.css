@@ -86,6 +86,7 @@ img{
     display: flex;
     background-color: antiquewhite;
     width: 200px;
+    height: 400px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
