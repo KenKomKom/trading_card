@@ -88,13 +88,16 @@ img{
 }
 
 .card{
+    box-sizing: border-box;
     display: flex;
     background-color: antiquewhite;
     width: 200px;
     height: 300px;
     justify-content: center;
     align-items: center;
+    border-radius: 5%;
     flex-direction: column;
+    box-shadow:inset;
 }
 
 footer{
