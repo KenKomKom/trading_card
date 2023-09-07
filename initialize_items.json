@@ -2,9 +2,9 @@
     {
         "model":"main.Items",
         "fields":{
-            "name" : "a",
-            "amount":"1",
-            "description":"desc",
+            "name" : "truk-kun",
+            "amount":"10",
+            "description":"isekai connoisseur",
             "image_link":"https://drive.google.com/uc?export=view&id=1OEheU8t1VbDwpTt7r7NxsiLIYIhJnYAS"
         }
         
@@ -12,18 +12,27 @@
     {
         "model":"main.Items",
         "fields":{
-            "name" : "b",
-            "amount":"2",
-            "description":"desc2",
+            "name" : "taxi",
+            "amount":"14",
+            "description":"It's a taxi, whatelse you want?",
             "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
         }
     },
     {
         "model":"main.Items",
         "fields":{
-            "name" : "c",
-            "amount":"3",
-            "description":"desc3",
+            "name" : "Motor",
+            "amount":"1",
+            "description":"Definitely not Gojek",
+            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+        }
+    },
+    {
+        "model":"main.Items",
+        "fields":{
+            "name" : "Smoking Robot",
+            "amount":"10",
+            "description":"64 bit art",
             "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
         }
     }
