@@ -119,7 +119,7 @@ USE_TZ = True
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static')
-STATIC_URL = 'static/'
+STATIC_URL = STATIC_ROOT
 
 
 MEDIA_URL = 'card_image/'
