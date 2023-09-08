@@ -2,20 +2,40 @@
     {
         "model":"main.Items",
         "fields":{
-            "name" : "truk-kun",
+            "name" : "Truk-kun",
             "amount":"10",
-            "description":"isekai connoisseur",
-            "image_link":"https://drive.google.com/uc?export=view&id=1OEheU8t1VbDwpTt7r7NxsiLIYIhJnYAS"
+            "description":"Isekai connoisseur",
+            "image_link":"https://drive.google.com/uc?export=view&id=1zYHVbEzjKjosFXvkKLxIX-bOTtDG9ntc"
         }
         
     },
     {
         "model":"main.Items",
         "fields":{
-            "name" : "taxi",
+            "name" : "JNETruk-kun",
+            "amount":"10",
+            "description":"Ekspedisi connoisseur",
+            "image_link":"https://drive.google.com/uc?export=view&id=1BnJTqPdTRKrx5UrfhkI1WUH2vlCTJnwf"
+        }
+        
+    },
+    {
+        "model":"main.Items",
+        "fields":{
+            "name" : "GamifyTruk",
+            "amount":"10",
+            "description":"Compfest ada game\nristek gamedev guys!",
+            "image_link":"https://drive.google.com/uc?export=view&id=1f2FrxwgEWtFQkWf0TiGz6OxSGhvhtyXU"
+        }
+        
+    },
+    {
+        "model":"main.Items",
+        "fields":{
+            "name" : "BlackCar",
             "amount":"14",
-            "description":"It's a taxi, whatelse you want?",
-            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            "description":"Cool looking black car",
+            "image_link": "https://drive.google.com/uc?export=view&id=1a7u66zwHlRj3PGkpN"
         }
     },
     {
@@ -24,16 +44,16 @@
             "name" : "Motor",
             "amount":"1",
             "description":"Definitely not Gojek",
-            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            "image_link": "https://drive.google.com/uc?export=view&id=13KY4z8kQ4lWprCUCGxNJgx4DsrQnELqL"
         }
     },
     {
         "model":"main.Items",
         "fields":{
-            "name" : "Smoking Robot",
+            "name" : "Blue Car",
             "amount":"10",
-            "description":"64 bit art",
-            "image_link": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            "description":"Is this BlueBird?",
+            "image_link": "https://drive.google.com/uc?export=view&id=1HDAXKBZOfOWBiv"
         }
     }
 ]

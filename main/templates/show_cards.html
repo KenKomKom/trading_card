@@ -21,10 +21,10 @@
             <div class = "container">
                 {% for card in cards %}
                 <div class="card">
-                    <p>{{card.name}}</p>
+                    <p id="cardname">{{card.name}}</p>
                     <img src={{card.image_link}} alt="{{card.name}}">
-                    <p>{{card.amount}}</p>
-                    <p>{{card.desc}}</p>
+                    <p>Amount : {{card.amount}}</p>
+                    <p>{{card.description}}</p>
                     <br/>
                 </div>
                 {% endfor %}
