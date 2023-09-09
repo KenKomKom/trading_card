@@ -32,15 +32,6 @@
     {
         "model":"main.Items",
         "fields":{
-            "name" : "BlackCar",
-            "amount":"14",
-            "description":"Cool looking black car",
-            "image_link": "https://drive.google.com/uc?export=view&id=1a7u66zwHlRj3PGkpN"
-        }
-    },
-    {
-        "model":"main.Items",
-        "fields":{
             "name" : "Motor",
             "amount":"1",
             "description":"Definitely not Gojek",
@@ -50,10 +41,20 @@
     {
         "model":"main.Items",
         "fields":{
-            "name" : "Blue Car",
+            "name" : "WhiteCar",
+            "amount":"14",
+            "description":"Vanilla flavoured",
+            "image_link": "https://drive.google.com/uc?export=view&id=1e7CZ4ei5LzAvkJ_vDk5echRAXNCmGCYf"
+        }
+    },
+    
+    {
+        "model":"main.Items",
+        "fields":{
+            "name" : "BlueCar",
             "amount":"10",
             "description":"Is this BlueBird?",
-            "image_link": "https://drive.google.com/uc?export=view&id=1HDAXKBZOfOWBiv"
+            "image_link": "https://drive.google.com/uc?export=view&id=1HDAXKBZOfOWBiv_XpIiaxmxFmhU9YANL"
         }
     }
 ]
