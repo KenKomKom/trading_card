@@ -117,12 +117,13 @@ footer{
     align-items: center;
     justify-content: space-between;
 }
-footer h1{
-    font-size: 48px;
+footer #footerTitle{
+    font-size: 36px;
     padding-left: 2%;
+    color: #213150;
 }
 footer p{
-    font-size: 24px;
-    color: antiquewhite;
+    font-size: 20px;
+    color: #252525;
     padding-right: 2%;
 }
