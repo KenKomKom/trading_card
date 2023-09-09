@@ -120,10 +120,11 @@ footer{
 footer #footerTitle{
     font-size: 36px;
     padding-left: 2%;
-    color: #213150;
+    color: #FFFFFF;
+    padding-bottom: 0.5%;
 }
 footer p{
     font-size: 20px;
-    color: #252525;
+    color: #FFFFFF;
     padding-right: 2%;
 }
